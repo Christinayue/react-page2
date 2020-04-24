@@ -1,23 +1,33 @@
 {
   "files": {
-    "main.css": "/react-page2/static/css/main.d1b05096.chunk.css",
-    "main.js": "/react-page2/static/js/main.c003c9a6.chunk.js",
-    "main.js.map": "/react-page2/static/js/main.c003c9a6.chunk.js.map",
+    "main.css": "/react-page2/static/css/main.52620a86.chunk.css",
+    "main.js": "/react-page2/static/js/main.5667ed59.chunk.js",
+    "main.js.map": "/react-page2/static/js/main.5667ed59.chunk.js.map",
     "runtime-main.js": "/react-page2/static/js/runtime-main.18ac9140.js",
     "runtime-main.js.map": "/react-page2/static/js/runtime-main.18ac9140.js.map",
-    "static/js/2.c6eedf67.chunk.js": "/react-page2/static/js/2.c6eedf67.chunk.js",
-    "static/js/2.c6eedf67.chunk.js.map": "/react-page2/static/js/2.c6eedf67.chunk.js.map",
+    "static/js/2.4133233a.chunk.js": "/react-page2/static/js/2.4133233a.chunk.js",
+    "static/js/2.4133233a.chunk.js.map": "/react-page2/static/js/2.4133233a.chunk.js.map",
     "index.html": "/react-page2/index.html",
-    "precache-manifest.136991e4cb5dc8726973852e0b6c7518.js": "/react-page2/precache-manifest.136991e4cb5dc8726973852e0b6c7518.js",
+    "precache-manifest.a99ac799919f68e1e286b22962031917.js": "/react-page2/precache-manifest.a99ac799919f68e1e286b22962031917.js",
     "service-worker.js": "/react-page2/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/react-page2/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.c6eedf67.chunk.js.LICENSE.txt": "/react-page2/static/js/2.c6eedf67.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-page2/static/media/logo.5d5d9eef.svg"
+    "static/css/main.52620a86.chunk.css.map": "/react-page2/static/css/main.52620a86.chunk.css.map",
+    "static/js/2.4133233a.chunk.js.LICENSE.txt": "/react-page2/static/js/2.4133233a.chunk.js.LICENSE.txt",
+    "static/media/Nexpay.png": "/react-page2/static/media/Nexpay.b8c214d0.png",
+    "static/media/github.svg": "/react-page2/static/media/github.b16e8332.svg",
+    "static/media/hotel2.png": "/react-page2/static/media/hotel2.aa081aa4.png",
+    "static/media/hotel3.png": "/react-page2/static/media/hotel3.265652b8.png",
+    "static/media/icon-test.svg": "/react-page2/static/media/icon-test.ee9f4a7f.svg",
+    "static/media/jadie1.png": "/react-page2/static/media/jadie1.6d5f9cbb.png",
+    "static/media/jadie2.png": "/react-page2/static/media/jadie2.be27858b.png",
+    "static/media/jiangren2.png": "/react-page2/static/media/jiangren2.7aec5ec7.png",
+    "static/media/jiangren3.png": "/react-page2/static/media/jiangren3.de070807.png",
+    "static/media/linkedin.svg": "/react-page2/static/media/linkedin.f84cc1f9.svg",
+    "static/media/HomePage.css": "/react-page2/static/media/sp_main_bg.6fb77634.png"
   },
   "entrypoints": [
     "static/js/runtime-main.18ac9140.js",
-    "static/js/2.c6eedf67.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.c003c9a6.chunk.js"
+    "static/js/2.4133233a.chunk.js",
+    "static/css/main.52620a86.chunk.css",
+    "static/js/main.5667ed59.chunk.js"
   ]
 }
